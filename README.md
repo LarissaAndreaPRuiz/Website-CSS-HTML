@@ -4,4 +4,4 @@ Thats a HTML5 and CSS3 website created and developed by me based on my technical
 
 You can see the final result here:
 
-https://larissaandreapruiz.github.io/MyWebsite/
+https://larissaandreapruiz.github.io/Website-CSS-HTML/
